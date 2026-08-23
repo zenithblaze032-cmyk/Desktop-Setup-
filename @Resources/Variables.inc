@@ -27,3 +27,10 @@ CrimsonSoft=139,0,0,160
 
 ; --- GHOST KANJI OPACITY GRAY (v3/v4) ---
 KanjiGhost=17,17,17,22
+
+; --- SEMANTIC SPIDERMAN THEME PALETTE ---
+ThemeRed=136,39,56,255
+ThemeBlack=25,27,33,255
+ThemeGray=173,177,186,255
+ThemeWatermark=25,27,33,80
+ThemeShadow=25,27,33,100
