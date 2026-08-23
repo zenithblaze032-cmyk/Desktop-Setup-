@@ -29,14 +29,16 @@ CrimsonSoft=139,0,0,160
 KanjiGhost=17,17,17,22
 
 ; --- SEMANTIC SPIDERMAN THEME PALETTE ---
+; Colors extracted from spiderman.webp new suit image
+; ThemeBlack is now the NAVY BLUE from the suit panels (R=27, G=46, B=64)
 ThemeRed=136,39,56,255
-ThemeBlack=25,27,33,255
+ThemeBlack=27,46,64,255
 ThemeGray=173,177,186,255
-ThemeWatermark=25,27,33,80
-ThemeShadow=25,27,33,100
+ThemeWatermark=27,46,64,80
+ThemeShadow=27,46,64,100
 
 ; --- EFFECTS & GRADIENTS ---
 ThemeRedGlow=136,39,56,150
-ThemeBlackGlow=25,27,33,150
+ThemeBlackGlow=27,46,64,150
 ThemeRedBright=200,50,70,255
-ThemeBlackLight=50,55,65,255
+ThemeBlackLight=50,75,100,255
