@@ -34,3 +34,9 @@ ThemeBlack=25,27,33,255
 ThemeGray=173,177,186,255
 ThemeWatermark=25,27,33,80
 ThemeShadow=25,27,33,100
+
+; --- EFFECTS & GRADIENTS ---
+ThemeRedGlow=136,39,56,150
+ThemeBlackGlow=25,27,33,150
+ThemeRedBright=200,50,70,255
+ThemeBlackLight=50,55,65,255
