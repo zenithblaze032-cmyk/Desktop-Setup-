@@ -8,22 +8,22 @@ ThemeName="Stealth Minimalist"
 ThemeSubtitle="STARK INDUSTRIES // PROTOTYPE SPEC"
 
 ; --- Core Color Palette ---
-ColorPrimary=240,246,255,255
-ColorSecondary=170,195,215,220
-ColorAccent=120,210,255,255
+ColorPrimary=255,255,255,255
+ColorSecondary=180,180,180,220
+ColorAccent=200,200,200,255
 ColorHighlight=255,255,255,255
-ColorMuted=85,95,110,180
-ColorDark=12,14,18,220
+ColorMuted=90,90,90,180
+ColorDark=15,15,15,220
 
 ; --- HUD & Grid Elements ---
-ColorPanelBg=6,8,12,180
-ColorPanelBorder=80,100,120,80
-ColorGrid=40,50,65,60
-ColorWireframe=150,180,210,100
+ColorPanelBg=10,10,10,180
+ColorPanelBorder=100,100,100,80
+ColorGrid=50,50,50,60
+ColorWireframe=160,160,160,100
 
 ; --- Glows & Shadows ---
-GlowPrimary=200,230,255,130
-GlowAccent=80,190,255,100
+GlowPrimary=220,220,220,130
+GlowAccent=150,150,150,100
 ShadowColor=0,0,0,200
 
 ; --- Fonts ---
